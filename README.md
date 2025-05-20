@@ -43,7 +43,7 @@ A web-based platform that enables citizens to submit and track their grievances 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/citizen-grievance-redressal-system.git
+git clone https://github.com/lxkeshu/citizen-grievance-redressal-system.git
 cd citizen-grievance-redressal-system
 ```
 
@@ -122,6 +122,23 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.
+
+### What you can do with this code:
+- ✅ Commercial use
+- ✅ Modify
+- ✅ Distribute
+- ✅ Private use
+
+### What you must do:
+- ℹ️ Include the original copyright notice
+- ℹ️ Include the license text
+
+### What you cannot do:
+- ❌ Hold the author liable
+
+For more information, please refer to the [LICENSE](LICENSE) file in the root directory.
+
 ## Acknowledgments
 
 - Firebase for backend services
@@ -131,5 +148,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Lokesh Agarwal - lxkeshu@gmail.com
+Lokesh - [@lxkeshu](https://github.com/lxkeshu)
 Project Link: [https://github.com/lxkeshu/citizen-grievance-redressal-system](https://github.com/lxkeshu/citizen-grievance-redressal-system)
