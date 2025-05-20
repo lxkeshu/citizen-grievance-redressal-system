@@ -131,5 +131,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/citizen-grievance-redressal-system](https://github.com/yourusername/citizen-grievance-redressal-system)
+Lokesh Agarwal - lxkeshu@gmail.com
+Project Link: [https://github.com/lxkeshu/citizen-grievance-redressal-system](https://github.com/lxkeshu/citizen-grievance-redressal-system)
