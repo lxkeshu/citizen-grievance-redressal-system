@@ -148,5 +148,6 @@ For more information, please refer to the [LICENSE](LICENSE) file in the root di
 
 ## Contact
 
-Lokesh - [@lxkeshu](https://github.com/lxkeshu)
+Lokesh Agarwal - [lxkeshu@gmail.com](lxkeshu@gmail.com)
+
 Project Link: [https://github.com/lxkeshu/citizen-grievance-redressal-system](https://github.com/lxkeshu/citizen-grievance-redressal-system)
