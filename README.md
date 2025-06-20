@@ -1,5 +1,9 @@
 # Citizen Grievance Redressal System
 
+> ## 🚨 Demo Admin Credentials
+> **Admin Email:** `admin@example.com`  
+> **Admin Password:** `admin123456`
+
 A web-based platform that enables citizens to submit and track their grievances while allowing administrators to manage and resolve them efficiently.
 
 ## Features
